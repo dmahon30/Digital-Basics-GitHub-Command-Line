@@ -54,10 +54,10 @@ ___
 
 Here are some screenshots of the code I used to get my results:
 
-![branchcommand](git-branch)
+![branchcommand](git-branch.png)
 
 
-![gitpush](git-push)
+![gitpush](git-push.png)
 
 ___
 
